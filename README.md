@@ -75,6 +75,3 @@ A full-stack web application designed to help users explore tourist destinations
 **Riya Singh**  
 GitHub: [Riya-Singh2](https://github.com/Riya-Singh2)
 
----
-
-Let me know if you'd like a ready-to-upload `README.md` file, or if you’ve deployed the app and want to include a live link!
